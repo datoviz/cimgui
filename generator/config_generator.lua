@@ -1,3 +1,3 @@
 return {
-	vulkan = {[[C:\VulkanSDK\1.1.130.0\Include]]}
+	vulkan = {[[/home/cyrille/vulkan/x86_64/include]]}
 }
